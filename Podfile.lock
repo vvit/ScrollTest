@@ -1,0 +1,13 @@
+PODS:
+  - AMScrollingNavbar (1.0.3)
+  - SSPullToRefresh (1.2.0)
+
+DEPENDENCIES:
+  - AMScrollingNavbar
+  - SSPullToRefresh
+
+SPEC CHECKSUMS:
+  AMScrollingNavbar: 5c72d3b9a768efb882b8a21d3ffca0aa18414ccb
+  SSPullToRefresh: bb513a1ccbf08fdd67e4139bc1bbe3fc2ed34228
+
+COCOAPODS: 0.34.2
